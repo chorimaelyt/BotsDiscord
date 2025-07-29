@@ -1,4 +1,3 @@
-// index.js
 const { Client, GatewayIntentBits, Partials } = require("discord.js");
 
 const TOKEN = process.env.TOKEN;
